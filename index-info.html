@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deuscure Biotech - Site Index</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0056B3, #004085);
+            color: #333;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 1000px;
+            width: 100%;
+            padding: 3rem;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            border-bottom: 3px solid #28A745;
+            padding-bottom: 2rem;
+        }
+        .header h1 {
+            color: #0056B3;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .logo-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        .header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+        .pages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        .page-card {
+            background: #F5F5F5;
+            padding: 2rem;
+            border-radius: 10px;
+            border-left: 4px solid #0056B3;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+        }
+        .page-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            border-left-color: #28A745;
+        }
+        .page-icon {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        .page-card h2 {
+            color: #0056B3;
+            margin-bottom: 0.5rem;
+            font-size: 1.3rem;
+        }
+        .page-card p {
+            color: #666;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+        .file-list {
+            background: #E8F4F8;
+            padding: 2rem;
+            border-radius: 10px;
+            margin-top: 2rem;
+            border: 2px solid #0056B3;
+        }
+        .file-list h3 {
+            color: #0056B3;
+            margin-bottom: 1.5rem;
+            font-size: 1.2rem;
+        }
+        .files {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        .file-item {
+            background: white;
+            padding: 1rem;
+            border-radius: 5px;
+            border-left: 3px solid #28A745;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9rem;
+            color: #333;
+        }
+        .instructions {
+            background: #FFF3CD;
+            border-left: 4px solid #FFC107;
+            padding: 1.5rem;
+            border-radius: 5px;
+            margin-top: 2rem;
+        }
+        .instructions h3 {
+            color: #856404;
+            margin-bottom: 1rem;
+        }
+        .instructions ol {
+            margin-left: 1.5rem;
+            color: #856404;
+        }
+        .instructions li {
+            margin-bottom: 0.5rem;
+        }
+        .button-group {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+        .btn {
+            padding: 0.8rem 1.5rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            font-size: 1rem;
+            display: inline-block;
+        }
+        .btn-primary {
+            background: #0056B3;
+            color: white;
+        }
+        .btn-primary:hover {
+            background: #004085;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #DDD;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo-icon">💊</div>
+            <h1>Deuscure Biotech Website</h1>
+            <p>Professional Pharmaceutical Distribution Platform</p>
+        </div>
+
+        <div class="pages-grid">
+            <a href="index.html" class="page-card">
+                <div class="page-icon">🏠</div>
+                <h2>Home</h2>
+                <p>Landing page with hero section, services overview, and company highlights.</p>
+            </a>
+
+            <a href="about.html" class="page-card">
+                <div class="page-icon">ℹ️</div>
+                <h2>About Us</h2>
+                <p>Company story, mission, values, and complete team information.</p>
+            </a>
+
+            <a href="products.html" class="page-card">
+                <div class="page-icon">💊</div>
+                <h2>Products</h2>
+                <p>Medicine catalog with image galleries and detailed product information modals.</p>
+            </a>
+
+            <a href="partners.html" class="page-card">
+                <div class="page-icon">🤝</div>
+                <h2>Our Partners</h2>
+                <p>Strategic partnership information (network details coming soon).</p>
+            </a>
+
+            <a href="stockits.html" class="page-card">
+                <div class="page-icon">📦</div>
+                <h2>Our Stockists</h2>
+                <p>Authorized stockists across Delhi and nearby regions.</p>
+            </a>
+
+            <a href="contact.html" class="page-card">
+                <div class="page-icon">📧</div>
+                <h2>Contact Us</h2>
+                <p>Contact form with validation, FAQ section, and company contact details.</p>
+            </a>
+        </div>
+
+        <div class="file-list">
+            <h3>📁 Project Files</h3>
+            <div class="files">
+                <div class="file-item">index.html</div>
+                <div class="file-item">about.html</div>
+                <div class="file-item">products.html</div>
+                <div class="file-item">stockits.html</div>
+                <div class="file-item">partners.html</div>
+                <div class="file-item">styles.css</div>
+                <div class="file-item">main.js</div>
+                <div class="file-item">products.js</div>
+                <div class="file-item">product-info.js</div>
+                <div class="file-item">contact.js</div>
+                <div class="file-item">README.md</div>
+                <div class="file-item">index-info.html</div>
+            </div>
+        </div>
+
+        <div class="instructions">
+            <h3>🚀 How to Get Started</h3>
+            <ol>
+                <li><strong>Start a local server</strong> - Run <code>python -m http.server 8080</code> from the project folder</li>
+                <li><strong>Open index.html</strong> - Visit <code>http://localhost:8080/index.html</code></li>
+                <li><strong>Navigate freely</strong> - Use the navigation menu to explore all pages</li>
+                <li><strong>Test the contact form</strong> - Submit the form on the Contact page to verify validation</li>
+                <li><strong>Browse products</strong> - Open product cards and view full information modals</li>
+            </ol>
+        </div>
+
+        <div class="button-group">
+            <a href="index.html" class="btn btn-primary">Visit Website →</a>
+        </div>
+
+        <div class="footer">
+            <p>© 2026 Deuscure Biotech. All rights reserved.</p>
+            <p style="font-size: 0.9rem; margin-top: 0.5rem;">Professional pharmaceutical distribution website</p>
+        </div>
+    </div>
+</body>
+</html>
