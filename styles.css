@@ -2380,6 +2380,23 @@ footer {
     grid-template-columns: 1fr;
   }
 
+  .about-image {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 12px;
+  }
+
+  .about-image img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: 280px;
+    object-fit: cover;
+    display: block;
+    border-radius: 12px;
+  }
+
   .stock-item {
     grid-template-columns: 1fr;
     gap: 0.5rem;
