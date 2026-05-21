@@ -1,0 +1,14 @@
+# robots.txt – Deuscure Biotech
+# https://www.deuscurebiotech.com/
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+
+# Block access to raw assets that don't need indexing
+Disallow: /IMAGES/
+Disallow: /*.js$
+Disallow: /*.css$
+
+# Sitemap location
+Sitemap: https://www.deuscurebiotech.com/sitemap.xml
