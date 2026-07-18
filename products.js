@@ -6,11 +6,7 @@ const productsData = [
   {
     id: 1,
     name: 'DEUCIP',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DEUCIP/WhatsApp Image 2026-05-08 at 7.01.44 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUCIP/WhatsApp Image 2026-05-08 at 7.01.44 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUCIP/WhatsApp Image 2026-05-08 at 7.01.45 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEUCIP/WhatsApp Image 2026-05-08 at 7.01.44 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEUCIP/DEUCIP.txt',
     description: 'Refreshing oral rehydration powder with Vitamin C, glucose, and essential electrolytes to support recovery from dehydration and help maintain fluid balance.',
     details: [
@@ -22,11 +18,7 @@ const productsData = [
   {
     id: 2,
     name: 'DEUPAN DSR',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DEUPAN DSR/WhatsApp Image 2026-05-08 at 7.01.42 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUPAN DSR/WhatsApp Image 2026-05-08 at 7.01.42 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUPAN DSR/WhatsApp Image 2026-05-08 at 7.01.42 PM (2).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEUPAN DSR/WhatsApp Image 2026-05-08 at 7.01.42 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEUPAN DSR/DEUPAN-DSR.txt',
     description: 'Prescription-only combination capsule for acid-related gastrointestinal disorders and impaired gut motility.',
     details: [
@@ -38,11 +30,7 @@ const productsData = [
   {
     id: 3,
     name: 'DEUSCLAV 625',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DEUSCLAV 625/WhatsApp Image 2026-05-08 at 7.01.36 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUSCLAV 625/WhatsApp Image 2026-05-08 at 7.01.36 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUSCLAV 625/WhatsApp Image 2026-05-08 at 7.01.37 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEUSCLAV 625/WhatsApp Image 2026-05-08 at 7.01.36 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEUSCLAV 625/Deusclav LB 625.txt',
     description: 'Broad-spectrum prescription antibiotic tablet with probiotic support for bacterial infection treatment.',
     details: [
@@ -54,11 +42,7 @@ const productsData = [
   {
     id: 4,
     name: 'DEUSCLAV DS',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DEUSCLAV DS/WhatsApp Image 2026-05-08 at 7.01.56 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUSCLAV DS/WhatsApp Image 2026-05-08 at 7.01.55 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/DEUSCLAV DS/WhatsApp Image 2026-05-08 at 7.01.57 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEUSCLAV DS/WhatsApp Image 2026-05-08 at 7.01.56 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEUSCLAV DS/Deusclav-DS.txt',
     description: 'High-strength pediatric antibiotic powder for oral suspension, used under clinical supervision.',
     details: [
@@ -70,11 +54,7 @@ const productsData = [
   {
     id: 5,
     name: 'DEZMINO LC',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DEZMINO LC/WhatsApp Image 2026-05-08 at 7.01.37 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEZMINO LC/WhatsApp Image 2026-05-08 at 7.01.37 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEZMINO LC/WhatsApp Image 2026-05-08 at 7.01.38 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEZMINO LC/WhatsApp Image 2026-05-08 at 7.01.37 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEZMINO LC/DEZMINO LC.txt',
     description: 'High-potency nutraceutical supplement with amino acids, L-Carnitine, Vitamin B12, folic acid, and Vitamin D3.',
     details: [
@@ -86,11 +66,7 @@ const productsData = [
   {
     id: 6,
     name: 'DEZMINO PLUS',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DEZMINO PLUS/WhatsApp Image 2026-05-08 at 7.01.35 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/DEZMINO PLUS/WhatsApp Image 2026-05-08 at 7.01.35 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DEZMINO PLUS/WhatsApp Image 2026-05-08 at 7.01.36 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEZMINO PLUS/WhatsApp Image 2026-05-08 at 7.01.35 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEZMINO PLUS/DEZMINO PLUS.txt',
     description: 'Advanced dietary supplement with Ubiquinol, L-Carnitine, Omega-3 fatty acids, Vitamin B12, and Vitamin D3.',
     details: [
@@ -102,11 +78,7 @@ const productsData = [
   {
     id: 7,
     name: 'DUBATIN 300',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DUBATIN 300/WhatsApp Image 2026-05-08 at 7.01.53 PM (3).jpeg',
-      'IMAGES/OUR-PRODUCTS/DUBATIN 300/WhatsApp Image 2026-05-08 at 7.01.54 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DUBATIN 300/WhatsApp Image 2026-05-08 at 7.01.54 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DUBATIN 300/WhatsApp Image 2026-05-08 at 7.01.53 PM (3).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DUBATIN 300/Dubatin-300.txt',
     description: 'Prescription neurological medication containing Gabapentin for neuropathic pain and seizure management.',
     details: [
@@ -118,11 +90,7 @@ const productsData = [
   {
     id: 8,
     name: 'DUESLIN 16',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DUESLIN 16/WhatsApp Image 2026-05-08 at 7.01.51 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DUESLIN 16/WhatsApp Image 2026-05-08 at 7.01.51 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/DUESLIN 16/WhatsApp Image 2026-05-08 at 7.01.51 PM (3).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DUESLIN 16/WhatsApp Image 2026-05-08 at 7.01.51 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DUESLIN 16/DUESLIN-16.txt',
     description: 'Prescription medicine with Betahistine for balance disorders and inner-ear related symptoms.',
     details: [
@@ -134,11 +102,7 @@ const productsData = [
   {
     id: 9,
     name: 'DULEM LC',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DULEM LC/WhatsApp Image 2026-05-08 at 7.01.50 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DULEM LC/WhatsApp Image 2026-05-08 at 7.01.50 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/DULEM LC/WhatsApp Image 2026-05-08 at 7.01.51 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DULEM LC/WhatsApp Image 2026-05-08 at 7.01.50 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DULEM LC/DULEM-LC.txt',
     description: 'Combination anti-allergic and respiratory medicine for allergic rhinitis and asthma symptom management.',
     details: [
@@ -150,11 +114,7 @@ const productsData = [
   {
     id: 10,
     name: 'DUXIN 20',
-    images: [
-      'IMAGES/OUR-PRODUCTS/DUXIN 20/WhatsApp Image 2026-05-08 at 7.01.52 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/DUXIN 20/WhatsApp Image 2026-05-08 at 7.01.53 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/DUXIN 20/WhatsApp Image 2026-05-08 at 7.01.53 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DUXIN 20/WhatsApp Image 2026-05-08 at 7.01.52 PM (2).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DUXIN 20/DUXIN-20.txt',
     description: 'Prescription SNRI medication containing Duloxetine in a gastro-resistant tablet base.',
     details: [
@@ -166,10 +126,7 @@ const productsData = [
   {
     id: 11,
     name: 'MIE PLUS',
-    images: [
-      'IMAGES/OUR-PRODUCTS/MIE PLUS/WhatsApp Image 2026-05-08 at 7.01.52 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/MIE PLUS/WhatsApp Image 2026-05-08 at 7.01.52 PM (1).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/MIE PLUS/WhatsApp Image 2026-05-08 at 7.01.52 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/MIE PLUS/Mie Plus.txt',
     description: 'Ayurvedic uterine tonic formulated to support female reproductive health and physical vitality.',
     details: [
@@ -181,11 +138,7 @@ const productsData = [
   {
     id: 12,
     name: 'PDEXLOR SYP',
-    images: [
-      'IMAGES/OUR-PRODUCTS/PDEXLOR SYP/WhatsApp Image 2026-05-08 at 7.01.49 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/PDEXLOR SYP/WhatsApp Image 2026-05-08 at 7.01.49 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/PDEXLOR SYP/WhatsApp Image 2026-05-08 at 7.01.50 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/PDEXLOR SYP/WhatsApp Image 2026-05-08 at 7.01.49 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/PDEXLOR SYP/PDEXLOR Syrup.txt',
     description: 'Sugar-free cherry-flavored syrup for dry cough, nasal congestion, and common cold or allergy symptoms.',
     details: [
@@ -197,11 +150,7 @@ const productsData = [
   {
     id: 13,
     name: 'RAKEIO DSR',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RAKEIO DSR/WhatsApp Image 2026-05-08 at 7.01.45 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/RAKEIO DSR/WhatsApp Image 2026-05-08 at 7.01.45 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/RAKEIO DSR/WhatsApp Image 2026-05-08 at 7.01.45 PM (3).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RAKEIO DSR/WhatsApp Image 2026-05-08 at 7.01.45 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RAKEIO DSR/RAKEIO-DSR.txt',
     description: 'Prescription combination capsule for acid reflux, heartburn, nausea, and impaired digestive motility.',
     details: [
@@ -213,11 +162,7 @@ const productsData = [
   {
     id: 14,
     name: 'REATE AM',
-    images: [
-      'IMAGES/OUR-PRODUCTS/REATE AM/WhatsApp Image 2026-05-08 at 7.01.57 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/REATE AM/WhatsApp Image 2026-05-08 at 7.01.57 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/REATE AM/WhatsApp Image 2026-05-08 at 7.01.58 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/REATE AM/WhatsApp Image 2026-05-08 at 7.01.57 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/REATE AM/Reate-AM.txt',
     description: 'Prescription combination tablet for hypertension management using dual blood-pressure control action.',
     details: [
@@ -229,11 +174,7 @@ const productsData = [
   {
     id: 15,
     name: 'RUXCEF OF',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RUXCEF OF/WhatsApp Image 2026-05-08 at 7.01.41 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXCEF OF/WhatsApp Image 2026-05-08 at 7.01.41 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXCEF OF/WhatsApp Image 2026-05-08 at 7.01.41 PM (2).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RUXCEF OF/WhatsApp Image 2026-05-08 at 7.01.41 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RUXCEF OF/RUXCEF-OF.txt',
     description: 'Prescription dual-action antibiotic tablet combining Cefixime and Ofloxacin for bacterial infections.',
     details: [
@@ -245,11 +186,7 @@ const productsData = [
   {
     id: 16,
     name: 'RUXFER',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RUXFER/WhatsApp Image 2026-05-08 at 7.01.47 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXFER/WhatsApp Image 2026-05-08 at 7.01.47 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXFER/WhatsApp Image 2026-05-08 at 7.01.48 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RUXFER/WhatsApp Image 2026-05-08 at 7.01.47 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RUXFER/RUXFER.txt',
     description: 'Nutraceutical supplement formulated to support hemoglobin, red blood cell production, and iron replenishment.',
     details: [
@@ -261,9 +198,7 @@ const productsData = [
   {
     id: 17,
     name: 'RUXLIV',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RUXLIV/WhatsApp Image 2026-05-08 at 7.01.54 PM (2).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RUXLIV/WhatsApp Image 2026-05-08 at 7.01.54 PM (2).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RUXLIV/RUXLIV.txt',
     description: 'Sugar-free syrup formulated to stimulate appetite, support nutrition, and aid healthy liver functioning.',
     details: [
@@ -275,11 +210,7 @@ const productsData = [
   {
     id: 18,
     name: 'RUXMAB',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RUXMAB/WhatsApp Image 2026-05-08 at 7.01.43 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXMAB/WhatsApp Image 2026-05-08 at 7.01.43 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXMAB/WhatsApp Image 2026-05-08 at 7.01.43 PM (2).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RUXMAB/WhatsApp Image 2026-05-08 at 7.01.43 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RUXMAB/Ruxmab.txt',
     description: 'Prescription triple-action tablet for pain, swelling, and inflammation management.',
     details: [
@@ -291,11 +222,7 @@ const productsData = [
   {
     id: 19,
     name: 'RUXTOL D3CAP',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RUXTOL D3CAP/WhatsApp Image 2026-05-08 at 7.01.46 PM.jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXTOL D3CAP/WhatsApp Image 2026-05-08 at 7.01.46 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXTOL D3CAP/WhatsApp Image 2026-05-08 at 7.01.47 PM.jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RUXTOL D3CAP/WhatsApp Image 2026-05-08 at 7.01.46 PM.jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RUXTOL D3CAP/RUXTOL D3.txt',
     description: 'High-potency Vitamin D3 softgel capsule for Vitamin D deficiency and bone health support.',
     details: [
@@ -307,11 +234,7 @@ const productsData = [
   {
     id: 20,
     name: 'RUXTOL INJ',
-    images: [
-      'IMAGES/OUR-PRODUCTS/RUXTOL INJ/WhatsApp Image 2026-05-08 at 7.01.48 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXTOL INJ/WhatsApp Image 2026-05-08 at 7.01.48 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/RUXTOL INJ/WhatsApp Image 2026-05-08 at 7.01.48 PM (3).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/RUXTOL INJ/WhatsApp Image 2026-05-08 at 7.01.48 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/RUXTOL INJ/RUXTOL Injection.txt',
     description: 'Ultra-high potency Vitamin D3 injection in a sterile oily base for severe deficiency management.',
     details: [
@@ -323,17 +246,49 @@ const productsData = [
   {
     id: 21,
     name: 'SEFMIX 500',
-    images: [
-      'IMAGES/OUR-PRODUCTS/SEFMIX 500/WhatsApp Image 2026-05-08 at 7.01.40 PM (1).jpeg',
-      'IMAGES/OUR-PRODUCTS/SEFMIX 500/WhatsApp Image 2026-05-08 at 7.01.40 PM (2).jpeg',
-      'IMAGES/OUR-PRODUCTS/SEFMIX 500/WhatsApp Image 2026-05-08 at 7.01.40 PM (3).jpeg'
-    ],
+    images: [ 'IMAGES/OUR-PRODUCTS/SEFMIX 500/WhatsApp Image 2026-05-08 at 7.01.40 PM (1).jpeg' ],
     infoPath: 'IMAGES/OUR-PRODUCTS/SEFMIX 500/SEFMIX-500.txt',
     description: 'Prescription antibiotic tablet containing Cefuroxime Axetil for a wide range of bacterial infections.',
     details: [
       'Used for respiratory, ENT, urinary tract, skin, and soft tissue infections.',
       'Works by inhibiting bacterial cell wall synthesis.',
       'Patients should complete the full prescribed course.'
+    ]
+  },
+  {
+    id: 22,
+    name: 'DEUVIT POWDER',
+    images: [ 'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/WhatsApp Image 2026-07-18 at 18.07.37.jpeg' ],
+    infoPath: 'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/Deuvit Powder.txt',
+    description: 'Sugar-free, chocolate-flavored protein supplement designed to support immunity, strength, and daily vitality.',
+    details: [
+      'Provides balanced nutrition with protein, vitamins, and minerals.',
+      'Supports energy, immunity, and muscle maintenance.',
+      'Designed as a daily nutritional boost rather than a meal replacement.'
+    ]
+  },
+  {
+    id: 23,
+    name: 'DEZMINO FORTE',
+    images: [ 'IMAGES/OUR-PRODUCTS/DEZMINO FORTE/WhatsApp Image 2026-07-18 at 18.07.36.jpeg' ],
+    infoPath: 'IMAGES/OUR-PRODUCTS/DEZMINO FORTE/Dezmino forte.txt',
+    description: 'Specialized neuroprotective supplement formulated with B-vitamins and coenzymes to support nerve function and red blood cell health.',
+    details: [
+      'Supports healthy nerve regeneration and pain relief.',
+      'Helps with red blood cell production and energy metabolism.',
+      'Formulated for clinical nutritional support under medical guidance.'
+    ]
+  },
+  {
+    id: 24,
+    name: 'DUXIP SUSPENSION',
+    images: [ 'IMAGES/OUR-PRODUCTS/DUXIP SUSPENSION/WhatsApp Image 2026-07-18 at 18.07.37.jpeg' ],
+    infoPath: 'IMAGES/OUR-PRODUCTS/DUXIP SUSPENSION/Duxip Suspension.txt',
+    description: 'Gastroprotective oral suspension combining sucralfate and oxetacaine for rapid relief from acidity, gastritis, and ulcer discomfort.',
+    details: [
+      'Forms a protective barrier over damaged gastric lining.',
+      'Provides fast-acting numbing relief from heartburn and acidity.',
+      'Recommended under prescription for gastric ulcer support.'
     ]
   }
 ];
