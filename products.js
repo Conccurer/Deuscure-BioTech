@@ -258,7 +258,10 @@ const productsData = [
   {
     id: 22,
     name: 'DEUVIT POWDER',
-    images: [ 'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/WhatsApp Image 2026-07-18 at 18.07.37.jpeg' ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/WhatsApp Image 2026-07-18 at 18.07.37.jpeg',
+              'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/WhatsApp Image 2026-07-17 at 15.36.59.jpeg',
+              'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/WhatsApp Image 2026-07-17 at 15.36.59 (1).jpeg'
+     ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEUVIT POWDER/Deuvit Powder.txt',
     description: 'Sugar-free, chocolate-flavored protein supplement designed to support immunity, strength, and daily vitality.',
     details: [
@@ -270,7 +273,9 @@ const productsData = [
   {
     id: 23,
     name: 'DEZMINO FORTE',
-    images: [ 'IMAGES/OUR-PRODUCTS/DEZMINO FORTE/WhatsApp Image 2026-07-18 at 18.07.36.jpeg' ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DEZMINO FORTE/WhatsApp Image 2026-07-18 at 18.07.36.jpeg',
+              'IMAGES/OUR-PRODUCTS/DEZMINO FORTE/WhatsApp Image 2026-07-17 at 15.36.58.jpeg'
+     ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DEZMINO FORTE/Dezmino forte.txt',
     description: 'Specialized neuroprotective supplement formulated with B-vitamins and coenzymes to support nerve function and red blood cell health.',
     details: [
@@ -282,13 +287,44 @@ const productsData = [
   {
     id: 24,
     name: 'DUXIP SUSPENSION',
-    images: [ 'IMAGES/OUR-PRODUCTS/DUXIP SUSPENSION/WhatsApp Image 2026-07-18 at 18.07.37.jpeg' ],
+    images: [ 'IMAGES/OUR-PRODUCTS/DUXIP SUSPENSION/WhatsApp Image 2026-07-18 at 18.07.37.jpeg',
+              'IMAGES/OUR-PRODUCTS/DUXIP SUSPENSION/WhatsApp Image 2026-07-17 at 15.36.58.jpeg'
+     ],
     infoPath: 'IMAGES/OUR-PRODUCTS/DUXIP SUSPENSION/Duxip Suspension.txt',
     description: 'Gastroprotective oral suspension combining sucralfate and oxetacaine for rapid relief from acidity, gastritis, and ulcer discomfort.',
     details: [
       'Forms a protective barrier over damaged gastric lining.',
       'Provides fast-acting numbing relief from heartburn and acidity.',
       'Recommended under prescription for gastric ulcer support.'
+    ]
+  },
+  {
+    id: 25,
+    name: 'AUNTRA LC',
+    images: [ 'IMAGES/OUR-PRODUCTS/AUNTRA LC/WhatsApp Image 2026-07-19 at 12.05.30.jpeg',
+              'IMAGES/OUR-PRODUCTS/AUNTRA LC/WhatsApp Image 2026-07-19 at 12.05.29.jpeg',
+              'IMAGES/OUR-PRODUCTS/AUNTRA LC/WhatsApp Image 2026-07-19 at 12.05.30 (1).jpeg'
+            ],
+    infoPath: 'IMAGES/OUR-PRODUCTS/AUNTRA LC/Auntra lc.txt',
+    description: 'Auntra-LC is a daily nutritional supplement used to treat nutritional deficiencies. It primarily helps relieve persistent muscle cramps, reduces muscle weakness, and boosts everyday bodily energy levels',
+    details: [
+      'It relieves painful muscle spasms and weakness by relaxing tight muscle tissues.',
+      'It helps the body convert dietary fats into usable cell energy to lower physical fatigue.',
+      'It provides strong antioxidant effects that safeguard your nerves and cells from daily inflammation.'
+    ]
+  },
+  {
+    id: 26,
+    name: 'Z ROL',
+    images: [ 'IMAGES/OUR-PRODUCTS/Z ROL/WhatsApp Image 2026-07-19 at 13.10.21.jpeg',
+              'IMAGES/OUR-PRODUCTS/Z ROL/WhatsApp Image 2026-07-19 at 13.10.21 (1).jpeg',
+              'IMAGES/OUR-PRODUCTS/Z ROL/WhatsApp Image 2026-07-19 at 13.10.21 (2).jpeg'
+     ],
+    infoPath: 'IMAGES/OUR-PRODUCTS/Z ROL/Z rol.txt',
+    description: 'This is Z-Rol, a flavored Prebiotic and Probiotic dietary supplement designed to support your digestive health.',
+    details: [
+      'It restores healthy gut bacteria to improve digestion, reduce bloating, and treat diarrhea or stomach upset.',
+      'The box contains 20 individual 1-gram sachets (powder packets) in a mango and pineapple flavor.'
     ]
   }
 ];
